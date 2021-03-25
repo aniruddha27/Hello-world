@@ -1,0 +1,4 @@
+<?php
+    echo "Hello World!";
+    echo "PHP scripts can be embedded in a html document"
+?>
