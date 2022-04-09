@@ -1,3 +1,5 @@
 Feedback file
 
 This is a great article. I really liked it and will share it with my friends as well.
+
+Got to learn more about git, please add more similar contents related to git  --Thanks to the Analytics Vidhya Team
